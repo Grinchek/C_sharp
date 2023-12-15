@@ -1,4 +1,6 @@
-﻿namespace my_prog
+﻿using System.Text;
+
+namespace my_prog
 {
     class My_class
     {
@@ -23,7 +25,14 @@
             //}
             //Console.WriteLine(IsPalindrom("otto"));
             //p3
-
+            Console.OutputEncoding = Encoding.UTF8;
+            string st = "Визначте відсоткове відношення малих і великих літер до загальної кількості символів в ньому.";
+            string[] tmp= st.Split(st, ' ');
+            char[] onest;
+            for (int i = 0; i < tmp.Length; i++)
+            {
+                onest += tmp[i].Split(tmp[i]);
+            }
         }
     }
 

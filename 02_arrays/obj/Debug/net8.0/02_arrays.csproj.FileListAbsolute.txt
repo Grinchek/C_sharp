@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\C_sharp\c_sharp_cource\02_arrays\bin\Debug\net8.0\02_arrays.exe
+C:\Users\User\Desktop\C_sharp\c_sharp_cource\02_arrays\bin\Debug\net8.0\02_arrays.deps.json
+C:\Users\User\Desktop\C_sharp\c_sharp_cource\02_arrays\bin\Debug\net8.0\02_arrays.runtimeconfig.json
+C:\Users\User\Desktop\C_sharp\c_sharp_cource\02_arrays\bin\Debug\net8.0\02_arrays.dll
+C:\Users\User\Desktop\C_sharp\c_sharp_cource\02_arrays\bin\Debug\net8.0\02_arrays.pdb
+C:\Users\User\Desktop\C_sharp\c_sharp_cource\02_arrays\obj\Debug\net8.0\02_arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\C_sharp\c_sharp_cource\02_arrays\obj\Debug\net8.0\02_arrays.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C_sharp\c_sharp_cource\02_arrays\obj\Debug\net8.0\02_arrays.AssemblyInfo.cs
+C:\Users\User\Desktop\C_sharp\c_sharp_cource\02_arrays\obj\Debug\net8.0\02_arrays.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C_sharp\c_sharp_cource\02_arrays\obj\Debug\net8.0\02_arrays.sourcelink.json
+C:\Users\User\Desktop\C_sharp\c_sharp_cource\02_arrays\obj\Debug\net8.0\02_arrays.dll
+C:\Users\User\Desktop\C_sharp\c_sharp_cource\02_arrays\obj\Debug\net8.0\refint\02_arrays.dll
+C:\Users\User\Desktop\C_sharp\c_sharp_cource\02_arrays\obj\Debug\net8.0\02_arrays.pdb
+C:\Users\User\Desktop\C_sharp\c_sharp_cource\02_arrays\obj\Debug\net8.0\02_arrays.genruntimeconfig.cache
+C:\Users\User\Desktop\C_sharp\c_sharp_cource\02_arrays\obj\Debug\net8.0\ref\02_arrays.dll

@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\C_sharp\c_sharp_cource\out_to_console\obj\Debug\net8.0\out_to_console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\C_sharp\c_sharp_cource\out_to_console\obj\Debug\net8.0\out_to_console.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C_sharp\c_sharp_cource\out_to_console\obj\Debug\net8.0\out_to_console.AssemblyInfo.cs
+C:\Users\User\Desktop\C_sharp\c_sharp_cource\out_to_console\obj\Debug\net8.0\out_to_console.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C_sharp\c_sharp_cource\out_to_console\bin\Debug\net8.0\out_to_console.exe
+C:\Users\User\Desktop\C_sharp\c_sharp_cource\out_to_console\bin\Debug\net8.0\out_to_console.deps.json
+C:\Users\User\Desktop\C_sharp\c_sharp_cource\out_to_console\bin\Debug\net8.0\out_to_console.runtimeconfig.json
+C:\Users\User\Desktop\C_sharp\c_sharp_cource\out_to_console\bin\Debug\net8.0\out_to_console.dll
+C:\Users\User\Desktop\C_sharp\c_sharp_cource\out_to_console\bin\Debug\net8.0\out_to_console.pdb
+C:\Users\User\Desktop\C_sharp\c_sharp_cource\out_to_console\obj\Debug\net8.0\out_to_console.dll
+C:\Users\User\Desktop\C_sharp\c_sharp_cource\out_to_console\obj\Debug\net8.0\refint\out_to_console.dll
+C:\Users\User\Desktop\C_sharp\c_sharp_cource\out_to_console\obj\Debug\net8.0\out_to_console.pdb
+C:\Users\User\Desktop\C_sharp\c_sharp_cource\out_to_console\obj\Debug\net8.0\out_to_console.genruntimeconfig.cache
+C:\Users\User\Desktop\C_sharp\c_sharp_cource\out_to_console\obj\Debug\net8.0\ref\out_to_console.dll
